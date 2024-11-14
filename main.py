@@ -179,8 +179,8 @@ def get_all_students(session):
 if __name__ == "__main__":
 
 	# input your own CLASS ID and MAIN SESSION values!
-	CLASS_ID = 391419
-	MAIN_SESSION = "9l8lvvv9cv19ru75q80bj6u1cp"
+	CLASS_ID = 0
+	MAIN_SESSION = ""
 
 	make_db()
 	for i in range(0,36914):
